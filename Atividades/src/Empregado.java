@@ -1,4 +1,4 @@
-package Atv_2;
+
 public class Empregado {
    private String nome;
    private String sobrenome;
@@ -28,9 +28,7 @@ public class Empregado {
         this.salario_mensal = salario_mensal;
     }
 
-    public static void main(String[] args) {
-        
-    }
+    public static void main(String[] args) {}
 }
 
 
