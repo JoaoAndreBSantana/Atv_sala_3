@@ -10,5 +10,7 @@ public class EmpregadoTeste {
         System.out.println("Salario atual do " + empregado2.getNome() + " " + empregado2.getSobrenome() + ": " + empregado2.getSalario_mensal());
 
 
+        
+
     }
 }
